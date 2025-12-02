@@ -20,11 +20,17 @@ Enter your choice: 2
 Account Number : 100   | Name : Alice            | Balance : 400    
 Account Number : 101   | Name : Bob              | Balance : 2500   
 
+
+
+-------------------------------------
+Enter your choice: 7
 Last 3 Transactions:
 ---------------------------------------
 ID : 1000  | Type : Initial-Deposit | Amount : 1000   
 ID : 1002  | Type : Withdrawal      | Amount : 100    
 ID : 1003  | Type : Transfer-out    | Amount : 500    
+
+
 -------------------------------------
 Enter your choice: 10
 ✔ Data Saved Successfully!
