@@ -1,1 +1,32 @@
-..
+===================================================
+                    BANK MANAGEMENT SYSTEM                     
+===================================================
+
+--------------- MENU ---------------
+ 1. Add Account
+ 2. Show Accounts
+ 3. Deposit
+ 4. Withdraw
+ 5. Balance Enquiry
+ 6. Transfer
+ 7. Show Transactions
+ 8. Search Account
+ 9. Save Data
+10. Exit
+-------------------------------------
+Enter your choice: 2
+
+-------------------- ACCOUNT LIST --------------------
+Account Number : 100   | Name : Alice            | Balance : 400    
+Account Number : 101   | Name : Bob              | Balance : 2500   
+
+Last 3 Transactions:
+---------------------------------------
+ID : 1000  | Type : Initial-Deposit | Amount : 1000   
+ID : 1002  | Type : Withdrawal      | Amount : 100    
+ID : 1003  | Type : Transfer-out    | Amount : 500    
+-------------------------------------
+Enter your choice: 10
+✔ Data Saved Successfully!
+
+Thank you! Exiting...
