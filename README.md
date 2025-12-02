@@ -14,8 +14,8 @@ This project is designed with clean data structures, file handling, linked lists
  ├── Images/
  │     ├── Flowchart.png
  │     ├── Bank_Sample_output.png
- ├── 00_sample written_output_format/
- ├── bank.dat   (auto-generated)
+ |     ├── 00_sample written_output_format/
+ |
  ├── README.md
 ```
 
