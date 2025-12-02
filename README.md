@@ -1,7 +1,3 @@
-# Bank_Managment_System_C
-
-Below is a **professional, attractive, interview-ready GitHub README.md** for your **Bank Management System in C**, including badges, features, screenshots section, flowchart section, and clean formatting.
-
 ---
 
 # 📌 **Bank Management System – C Project**
