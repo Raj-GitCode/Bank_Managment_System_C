@@ -121,11 +121,8 @@ gcc Bank_System.c -o bank
 * Clean coding structure suitable for scaling
 
 ---
-
 ## 🏅 **Author**
 
-**Raj-GitCode**
+**Raj-GitCode**  <br>
 📌 *Bank Management System in C*
-
----
 
