@@ -6,6 +6,18 @@ A simple but powerful **Bank Management System** implemented in **C**, featuring
 This project is designed with clean data structures, file handling, linked lists, and circular transaction logs—ideal for learning.
 
 ---
+## 🧾 **Project Structure**
+
+```
+📂 Bank_Managment_System_C
+ ├── Bank_System.c
+ ├── Images/
+ │     ├── Flowchart.png
+ │     ├── Bank_Sample_output.png
+ ├── 00_sample written_output_format/
+ ├── bank.dat   (auto-generated)
+ ├── README.md
+```
 
 ## 🚀 **Features**
 
@@ -40,18 +52,6 @@ This project is designed with clean data structures, file handling, linked lists
 
 ---
 
-## 🧾 **Project Structure**
-
-```
-📂 Bank_Managment_System_C
- ├── Bank_System.c
- ├── Images/
- │     ├── Flowchart.png
- │     ├── Bank_Sample_output.png
- ├── 00_sample written_output_format/
- ├── bank.dat   (auto-generated)
- ├── README.md
-```
 
 ---
 
@@ -112,19 +112,13 @@ gcc Bank_System.c -o bank
 
 ---
 
-## ⭐ **Why This Project Stands Out (Interview Edge)**
+## ⭐ **Why This Project**
 
 * Demonstrates **strong understanding of C fundamentals**
 * Uses **data structures & algorithms** effectively
 * Shows **real-world problem solving**
 * Implements **persistent storage like a real bank system**
 * Clean coding structure suitable for scaling
-
----
-
-## 🤝 **Contributions**
-
-Feel free to fork this repository and submit pull requests to improve functionality or code readability.
 
 ---
 
